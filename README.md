@@ -59,7 +59,9 @@ $ cd TravelMap
 ## Credits
 
 💻 - [Blake Powers](https://github.com/blakecpowers)
+
 🔋 - [Google Maps API](https://developers.google.com/maps/documentation/javascript)
+
 📁 - [Storage](https://cloud.google.com/storage/docs/creating-buckets)
 
 
