@@ -11,15 +11,12 @@
   <br>
 </h1>
 
-<h4 align="center">A travel map destination compilation with your favorite pictures. Using <a href="https://developers.google.com/maps/documentation/javascript" target="_blank">Maps JavaScript API</a>.</h4>
+<h4 align="center">A travel map destination compilation with your favorite pictures. Using <a href="https://developers.google.com/maps/documentation/javascript" target="_blank">Maps JavaScript API</a></h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
 </p>
 
 ![screenshot](https://storage.googleapis.com/blakepowerstravelmap/zCSSImages/demo.png)
@@ -31,7 +28,7 @@
 * Put your travel spot on the map
   - Add a marker to your javascript file with lat/long coordinates.
 * Image slideshow
-* - Add your favorite photos from the marked location to a custom slideshow.
+ - Add your favorite photos from the marked location to a custom slideshow.
 
 ## How To Use
 
